@@ -1,6 +1,6 @@
 body
 {
-  background-color: #444;
+	background-color: #444;
 	
 	margin: 0;
 	
@@ -131,4 +131,6 @@ body
 	padding: 10px;
 	
 	background-color: #777;
+	
+	border: #333 double 8px;
 }
