@@ -1,4 +1,2 @@
-Codeless-Wonders
+PIK-Studios
 ================
-
-For my Web Design Class, Group Project/Website
